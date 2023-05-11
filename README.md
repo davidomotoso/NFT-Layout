@@ -1,2 +1,3 @@
 # NFT-Layout was designed by danielomotoso52@gmail.com
-and developed by me.
+and developed by davidomotoso
+
